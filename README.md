@@ -18,3 +18,16 @@ Features
 - Show Class Average: Calculates and displays the average grade of all students in the system.
 
 - Exit: Exits the program.
+
+Getting Started
+- Prerequisites
+- Python 3.x
+- Tkinter library
+
+Usage
+- Upon running the program, a graphical user interface (GUI) will appear, allowing users to perform various actions using buttons.
+
+- Alternatively, the program can be run through the console, providing a command-line interface (CLI) for user interaction.
+
+Contributing
+- Contributions are welcome! Feel free to open issues or submit pull requests.
